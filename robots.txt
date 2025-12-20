@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinosbarriere-toulouse.com/
+Sitemap: https://casinosbarriere-toulouse.com/sitemap.xml

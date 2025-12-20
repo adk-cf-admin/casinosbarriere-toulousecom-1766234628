@@ -1,0 +1,201 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#1B1B1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1B1B1A",
+            "welcome-bonus-bg": "#1B1B1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#111111",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#C9A43A",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#c9503b",
+            "yellow": "#C9A43A",
+            "yellow-button": "#c9503b",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1B1B1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#1B1B1A",
+            "faq-label": "#1B1B1A",
+            "bg-footer": "#1B1B1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#C9A43A",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Barrière Toulouse",
+            "title": "Casino Barrière Toulouse : machines à sous, roulette, poker, théâtre et restaurants pour une soirée complète",
+            "description": "Découvrez le Casino Barrière Toulouse : salles de jeux modernes, roulette et blackjack, tables de poker, spectacles au théâtre, bars et restaurants pour une sortie clé en main. Retrouvez règles d’accès, repères de mises, offres spéciales et conseils pour profiter au mieux de l’expérience.",
+            "canonical": "casinosbarriere-toulouse.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1158",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinosbarriere-toulouse.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1159",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1160"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1161",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Barrière Toulouse Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino Barrière Toulouse — jeux, spectacles, restaurants et esprit night out",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1162",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 3,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1163",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Plus de 300 machines à sous variées",
+                "Roulette et blackjack en ambiance soirée",
+                "Poker en cash game et tournois",
+                "Jeux électroniques pour rythme dynamique",
+                "Théâtre et spectacles sur place",
+                "Plusieurs bars pour se détendre",
+                "Accès pratique et services complets"
+            ],
+            "advantagesAfterText": "Le Casino Barrière Toulouse séduit par son concept « tout-en-un » : jeux, restauration et spectacles réunis au même endroit. L’expérience est pensée pour enchaîner apéritif, divertissement et session de jeu sans friction. L’accueil et l’organisation facilitent une sortie réussie, même pour une première visite.\n",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino Barrière Toulouse App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1164",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Barrière Toulouse App",
+            "mobileGooglePlayImageTitle": "Casino Barrière Toulouse App",
+            "mobileIosImageTitle": "Casino Barrière Toulouse App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino Barrière Toulouse",
+                "description1": "Le casino se distingue par l’alliance jeux + théâtre, pour une sortie complète au même endroit. L’offre bars et restaurants prolonge l’expérience et permet d’alterner détente, spectacle et jeu.\n",
+                "items": [
+                    "Jackpot : jusqu’à 129 795 €.",
+                    "Machines : gros gains progressifs.",
+                    "Tournois : prizes et dotations."
+                ],
+                "description2": "Le Casino Barrière Toulouse est un complexe de divertissement moderne qui réunit jeux, restauration et spectacles. L’espace est conçu pour passer facilement des salles de jeux aux bars ou au théâtre. L’ambiance est à la fois vivante et confortable, avec une vraie attention portée au service. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1165",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "On y retrouve des machines et des tables, ce qui permet d’adapter la soirée à ses envies. La scène sur place ajoute une dimension événementielle et transforme la visite en sortie complète. Les zones de détente invitent à faire une pause avant de reprendre le jeu. Le personnel accompagne les visiteurs et facilite la découverte des espaces. Beaucoup choisissent la formule « dîner, spectacle, jeux » pour varier les plaisirs. La programmation évolue au fil du temps et donne envie de revenir. C’est un lieu apprécié autant pour l’atmosphère que pour l’expérience globale.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Barrière Toulouse : une soirée élégante entre jeux et spectacles",
+                "description": "<p>\nLe Casino Barrière Toulouse se présente comme un lieu contemporain au style affirmé, pensé pour une sortie du soir réussie. Lumières, détails soignés et circulation fluide créent une ambiance à la fois chic et accessible. On peut venir pour jouer, mais aussi simplement pour profiter d’un cadre vivant et convivial. L’ensemble fonctionne comme un parcours : bar, spectacle, jeu, puis détente, sans impression de rupture.\n\n<\/p>\n<br>\n\n<p>\nCôté horaires, l’établissement se prête autant aux visites en journée qu’aux soirées prolongées, grâce à une ouverture matinale et une fermeture tardive. Ce rythme laisse le choix : arriver tôt, prendre son temps, ou viser directement l’énergie de la nuit. L’organisation intérieure favorise les pauses et les transitions, ce qui rend l’expérience confortable. On peut alterner moments intenses et parenthèses calmes, sans se presser.\n\n<\/p>\n<br>\n<p>\nLes bars jouent un rôle central dans l’atmosphère, car ils donnent à la soirée un tempo plus souple. Un apéritif avant le théâtre, un cocktail après un spectacle ou une pause entre deux sessions de jeu deviennent des moments naturels. Ces espaces sont aussi des points de rencontre, idéaux pour partager l’expérience en groupe. La dimension musicale et l’ambiance lumineuse renforcent l’esprit « night out » recherché.\n\n<\/p>\n<br>\n<p>\nL’hébergement n’est généralement pas l’élément principal sur place : le concept mise surtout sur un divertissement complet au même endroit, avec jeux, scène et restauration. Cela n’empêche pas de transformer la sortie en escapade, grâce aux solutions d’hôtels disponibles à proximité. Beaucoup préfèrent ainsi prolonger la nuit sans contrainte. Cette flexibilité attire autant les visiteurs occasionnels que ceux qui viennent pour un événement précis.\n\n<\/p>\n<br>\n<p>\nLes événements constituent une vraie signature du lieu, notamment grâce au théâtre intégré et à une programmation qui dynamise le calendrier. Concerts, humour, spectacles musicaux et soirées spéciales offrent une expérience plus large que le simple jeu. On planifie souvent la visite autour d’une date à l’affiche, puis on complète par un dîner et une session de jeu. Le casino devient alors un pôle de sortie, pas seulement une salle de jeux.\n\n<\/p>\n<br>\n<p>\nEnfin, les programmes d’avantages et de fidélité s’inscrivent dans cette logique d’expérience globale. Les membres bénéficient souvent d’offres personnalisées, d’invitations et de privilèges qui améliorent le confort. Des promotions ponctuelles liées aux jeux et aux saisons viennent compléter l’ensemble. Le Casino Barrière Toulouse s’impose ainsi comme un lieu où l’on vient chercher une soirée complète, variée et mémorable.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService et paiements au Casino Barrière Toulouse : équipe, moyens de paiement et retrait des gains\n<\/h3>\n\n<p>\nLe personnel du Casino Barrière Toulouse fonctionne généralement selon les standards d’un grand complexe : accueil, orientation, assistance et gestion des situations particulières. Les équipes savent adapter leur accompagnement, qu’il s’agisse d’une première visite ou d’un joueur habitué. Aux tables, les croupiers assurent le rythme, l’ambiance et la bonne tenue du jeu. Aux points d’information, au contrôle d’accès et dans les espaces de restauration, l’objectif est de rendre le parcours simple et fluide.\n\n<\/p>\n<br>\n\n<p>\nPour les langues, le français reste la référence, tandis qu’un soutien en anglais est souvent possible, surtout lors des périodes d’affluence et des événements. Dans la pratique, la disponibilité dépend de la journée et de l’équipe présente. Pour les questions plus techniques, un responsable peut intervenir afin de sécuriser la réponse. Cette organisation limite les malentendus et accélère les démarches.\n\n<\/p>\n<br>\n<p>\nLa devise utilisée est l’euro, et le paiement sur place se fait le plus souvent en espèces et par carte bancaire. Les espaces bars et restaurants disposent généralement de terminaux modernes, y compris le sans contact. Pour une soirée orientée jeu, il est conseillé de prévoir un mode de paiement confortable, afin d’éviter les interruptions. Il peut aussi exister des règles internes sur certaines transactions, liées à la sécurité et au jeu responsable.\n\n<\/p>\n<br>\n<p>\nDes distributeurs automatiques sont fréquemment accessibles dans ce type d’établissement ou à proximité immédiate, pour retirer des espèces rapidement. Le change n’est pas toujours proposé comme service dédié, donc les visiteurs internationaux préfèrent souvent effectuer l’échange en amont. Garder un peu de liquide pour les petites dépenses peut être utile, tout en privilégiant la carte pour le reste. L’équilibre carte\/espèces offre la meilleure flexibilité.\n\n<\/p>\n<br>\n<p>\nLe retrait des gains en casino terrestre est généralement clair : petites sommes réglées au comptoir, montants plus élevés avec contrôles supplémentaires. Une pièce d’identité est habituellement nécessaire, et des formalités peuvent s’ajouter pour des gains importants. Ces étapes répondent à des obligations de sécurité et de conformité. Pour gagner du temps, mieux vaut demander au comptoir quels documents sont recommandés le jour de votre visite.\n\n<\/p>\n<br>\n<p>\nConcernant la fiscalité, les gains peuvent relever de règles qui dépendent du profil du joueur et des circonstances. Si vous jouez très régulièrement ou de manière professionnelle, une vérification auprès d’un conseiller fiscal est pertinente. Le casino applique des procédures d’identification et de traçabilité, mais l’analyse fiscale finale appartient au joueur. Cette séparation rend le processus plus sécurisé et plus prévisible pour tous.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite du Casino Barrière Toulouse : tenue, accès et transports\n<\/h3>\n\n<p>\nLa visite commence par un contrôle d’accès, il est donc essentiel d’avoir une pièce d’identité valide. L’entrée est réservée aux personnes majeures, et l’établissement peut refuser l’accès en cas de non-respect du règlement ou pour des raisons de sécurité. La tenue attendue est généralement une tenue de ville soignée, surtout en soirée et lors des événements. En état d’ivresse manifeste, l’accès peut être refusé afin de préserver le confort des visiteurs. Dans les salles de jeu, le comportement doit rester respectueux : ne pas perturber les autres, suivre les consignes des croupiers et respecter les procédures. Les photos et vidéos sont souvent limitées dans les zones de jeu pour des raisons de confidentialité. Il est recommandé de garder un œil sur ses effets personnels et de suivre les indications du personnel. La circulation est organisée pour rendre le parcours fluide, mais mieux vaut prévoir un peu de marge aux heures d’affluence. Le stationnement est généralement possible à proximité, avec une disponibilité variable selon l’heure. Les transports en commun offrent une alternative pratique, notamment en soirée. En cas de spectacle, arriver en avance permet de profiter pleinement de la soirée.\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDress code\n<\/h4>\n\n <ul>\n            <li>• \nTenue de ville propre et soignée recommandée.\n\n<\/li>\n            <li>• \nLes tenues trop décontractées (type plage\/sport) peuvent être refusées.\n\n<\/li>\n            <li>• \nEn soirée : style smart casual apprécié.\n<\/li>\n \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’accès\n<\/h4>\n\n <ul>\n            <li>• \nAccès réservé aux majeurs.\n\n<\/li>\n            <li>• \nPièce d’identité obligatoire.\n\n<\/li>\n            <li>• \nContrôles possibles par la sécurité.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdits et restrictions\n\n<\/h4>\n\n <ul>\n            <li>• \nRestrictions sur photo\/vidéo dans les salles de jeu.\n\n<\/li>\n            <li>• \nInterdiction de comportements agressifs ou perturbateurs.\n\n<\/li>\n            <li>• \nRefus possible en cas d’ivresse manifeste.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParking et accès\n<\/h4>\n\n <ul>\n            <li>• \nStationnement sur place ou à proximité (anticiper aux heures pleines).\n\n<\/li>\n            <li>• \nTransports en commun pratiques pour une sortie nocturne.\n\n<\/li>\n            <li>• \nUne navette gratuite peut exister sur certains créneaux, facilitant l’accès.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLe Carré VIP & Barrière Play à Toulouse : fidélité, statuts, avantages et bonus\n<\/h3>\n\n<p>\nLe programme de fidélité du Casino Barrière Toulouse vise à récompenser la régularité et à améliorer le confort de visite. L’idée est simple : plus vous revenez, plus l’expérience devient fluide et avantageuse, sur les jeux comme sur les espaces bars et restaurants. La fidélité ne se limite pas à des points : elle apporte aussi un niveau de service, des invitations et des offres personnalisées. Pour un nouveau visiteur, c’est un moyen clair de valoriser ses sorties et de recevoir des avantages concrets. Pour un habitué, les statuts deviennent la clé, car ils ouvrent progressivement l’accès à des privilèges plus exclusifs. Le suivi de progression permet de comprendre ce que chaque niveau apporte et d’organiser ses visites en conséquence. Des opérations promotionnelles peuvent accélérer l’accumulation et donner un « coup de boost » sur une période limitée. Le programme s’intègre parfaitement à une soirée complète : jouer, dîner, assister à un spectacle, puis cumuler des avantages. Les membres accèdent souvent à des offres invisibles pour les non-inscrits. Lorsqu’on fréquente les événements, la fidélité prend encore plus de valeur via la priorité et les attentions. L’approche reste compatible avec une pratique responsable, grâce à des messages et outils clairs. Au final, c’est une mécanique qui récompense la régularité et améliore la qualité de chaque retour.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n<\/h4>\n\n <ul>\n            <li>• \nInscription sur place : 5 à 10 minutes.\n\n<\/li>\n            <li>• \nPièce d’identité + majorité requises.\n\n<\/li>\n            <li>• \nCarte\/profil généralement activé le jour même.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveaux et obtention \n<\/h4>\n\n <ul>\n            <li>• \nStart : dès l’inscription ; cumul de base.\n\n<\/li>\n            <li>• \nSilver : régularité + activité ; cumul accéléré (+10 à +15%).\n\n<\/li>\n            <li>• \nGold : visiteurs actifs ; plus d’offres ciblées (+25 à +35%).\n\n<\/li>\n            <li>• \nPlatinum\/VIP : sur invitation ou forte activité ; privilèges étendus (+50%).\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus et privilèges \n<\/h4>\n\n <ul>\n            <li>• \nPoints bonus sur les jeux : journées ×2 points.\n\n<\/li>\n            <li>• \nAvantages bars : bons 10 à 20 € selon paliers.\n\n<\/li>\n            <li>• \nAvantages événements : priorité + parfois -10 à -15% sur certaines dates.\n\n<\/li>\n            <li>• \nAnniversaire : bon 15 à 30 € ou attention selon statut.\n\n<\/li>\n\t    <li>• \nService VIP : accès facilité, zones dédiées selon niveau.\n<\/li>\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au Casino  Barrière Toulouse",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus, promos et offres spéciales au Casino Barrière Toulouse : jeux, spectacles et saisons\n<\/h3>\n\n<p>\nEn dehors de la fidélité, le Casino Barrière Toulouse anime régulièrement la visite avec des promotions courtes, des événements de jeu et des temps forts saisonniers. Le principe est généralement simple : venir sur une période donnée, suivre une mécanique claire et obtenir un avantage supplémentaire. Pour les joueurs, cela peut prendre la forme de tournois, de semaines thématiques machines à sous, de tirages au sort ou de défis. Pour les amateurs de sorties, certaines offres se combinent au théâtre avec des formats dîner-spectacle, menus spéciaux et soirées festives. L’intérêt de ces animations est leur renouvellement, qui donne envie de revenir. Beaucoup d’opérations suivent le calendrier : fêtes de fin d’année, soirées du Nouvel An, week-ends thématiques ou grands rendez-vous. Les promos jeux ajoutent du rythme et encouragent à découvrir de nouveaux titres ou variantes. Les promos divertissement créent une soirée « clé en main » : bar, scène, puis jeu. Ainsi, une même adresse peut offrir des expériences très différentes d’une semaine à l’autre. On voit aussi des mécaniques type « happy hours » au bar ou des animations ponctuelles qui rendent les pauses plus agréables. Le meilleur réflexe est de considérer ces promos comme un plus, jamais comme une promesse de gain. De cette manière, l’expérience reste fun, variée et maîtrisée.\n<\/p>\n<br>\n<ul>\n            <li>• \nJackpots progressifs sur machines : exemple « prochain jackpot » ≈ 129 795 € ; montant évolutif lié au cumul.\n\n<\/li>\n            <li>• \nJournées tournois (poker\/machines) : dotations, par exemple 1 000 à 10 000 € selon format ; plusieurs places récompensées.\n\n<\/li>\n            <li>• \nDéfis thématiques : bonus\/avantages 50 à 500 € (bons, cadeaux) pour des objectifs de jeu sur une période.\n\n<\/li>\n            <li>• \nLotos & tirages cadeaux : lots représentant 500 à 3 500 € selon animation ; souvent saisonnier.\n\n<\/li>\n\t    <li>• \nSoirées festives & dates spéciales : packs « dîner + spectacle » à partir de ≈ 70–90 € selon l’affiche.\n\n<\/li>\n\t    <li>• \nPromo “double chance” : mécanique ×2 sur certaines périodes (plus d’entrées à un tirage, etc.).\n\n<\/li>\n\t    <li>• \nCartes cadeaux & expériences : valeurs 20 à 100 €, idéales pour offrir une sortie.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino Barrière Toulouse : machines, roulette, blackjack et poker\n<\/h3>\n\n<p>\nL’offre jeux du Casino Barrière Toulouse est pensée pour différents profils, des amateurs de machines rapides aux passionnés de tables. Les machines à sous restent souvent le choix le plus accessible : règles simples, rythme immédiat et grande variété de thèmes. La roulette et le blackjack incarnent l’esprit casino classique, avec une ambiance de table et des décisions qui structurent la session. Le poker attire celles et ceux qui recherchent stratégie, lecture des adversaires et dimension sociale. Les jeux électroniques sont pratiques quand on veut s’installer rapidement et jouer sans attente. Les tables « live » plaisent pour l’énergie, l’interaction et le cérémonial des jetons. Pour une première visite, commencer par machines ou terminaux électroniques aide à prendre ses repères. Les joueurs expérimentés alternent volontiers : roulette pour le frisson, blackjack pour la stratégie, poker pour l’intensité. Le complexe facilite aussi les pauses : bar, restauration, puis retour en salle de jeu. Lorsqu’un spectacle est au programme, le jeu devient un prolongement naturel de la soirée. Cette diversité rend l’expérience plus riche et plus flexible. Le meilleur conseil reste de choisir le format selon son humeur et de fixer des limites pour garder le jeu dans le plaisir.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nMachines à sous — grande variété, rythme rapide, possibilité de jackpots progressifs.\n\n<\/li>\n            <li>• \nRoulette anglaise — mises variées, suspense, ambiance de table.\n\n<\/li>\n            <li>• \nBlackjack — décisions et stratégie, gestion du risque.\n\n<\/li>\n            <li>• \nTexas Hold’em (poker) — stratégie, psychologie, affrontement entre joueurs.\n\n<\/li>\n\t    <li>• \nUltimate Poker — poker dynamique, décisions rapides.\n\n<\/li>\n\t    <li>• \nLa Boule — classique accessible, cadence reconnaissable.\n\n<\/li>\n\t    <li>• \nJeux électroniques — accès rapide à roulette\/blackjack en mode terminal.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino Barrière Toulouse : minimums et maximums selon les jeux\n<\/h3>\n\n<p> \nLes limites de mise au Casino Barrière Toulouse sont généralement pensées pour convenir à différents budgets : petites mises sur machines et jeux électroniques, puis limites plus élevées sur certaines tables. Cela permet d’ajuster le rythme et le niveau de risque selon l’envie du moment. Gardez en tête que les limites peuvent varier selon l’heure, la table et l’affluence. Le tableau ci-dessous donne des repères indicatifs pour mieux préparer sa session.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#C9A43A; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimale<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximale<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10–20 € \/ spin<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50–1 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50–100 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (table live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2–5 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200–500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (table live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5–10 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200–500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2–5 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100–300 €<\/td>\n                <\/tr>\n          <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Texas Hold’em (cash game)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1\/2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5\/10 € et +<\/td>\n                <\/tr>\n         <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">La Boule<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100–200 €<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpectacles, nightlife et divertissements au Casino Barrière Toulouse : théâtre, musique et rendez-vous réguliers<\/h3>\n\n<p>\nLe Casino Barrière Toulouse se distingue par une dimension divertissement très forte : le théâtre intégré transforme l’adresse en véritable lieu de sortie. On peut construire la visite autour d’un spectacle plutôt que du jeu, qu’il s’agisse d’un concert, d’un humour ou d’un show musical. Cela crée une soirée complète : apéritif, scène, puis prolongation au bar et passage en salle de jeux. Cette logique « tout-en-un » plaît à ceux qui veulent une nuit variée et bien rythmée.\n\n<\/p>\n<br>\n\n<p>\nLes formats du soir donnent souvent une ambiance plus festive, où la musique et les bars deviennent un moment à part entière. Après un spectacle, beaucoup restent pour un cocktail afin de prolonger l’expérience au lieu de partir immédiatement. En groupe, c’est idéal : chacun peut choisir son tempo, entre jeu, bar et discussion. L’ensemble ressemble davantage à un complexe de loisirs qu’à une simple salle de jeux.\n\n<\/p>\n<br>\n<p>\nLes événements spéciaux suivent fréquemment le calendrier saisonnier : fêtes, soirées thématiques, dates particulières. Ces soirées peuvent s’accompagner de menus dédiés, d’animations au bar et d’une énergie plus marquée dans les espaces. Même une visite classique prend alors un parfum d’exception. C’est un bon choix pour un week-end, une célébration ou une sortie improvisée.\n\n<\/p>\n<br>\n<p>\nPour les amateurs de nightlife, l’avantage est logistique : pas besoin de multiplier les lieux pour changer d’ambiance. Le théâtre, les bars et les jeux sont réunis, ce qui rend la soirée cohérente et simple à gérer, surtout tard dans la nuit. En revenant régulièrement, on finit par créer ses rituels : spectacle puis cocktail, ou poker puis dîner tardif. Cette flexibilité fait la force du lieu.\n\n<\/p>\n<br>\n<p>\nAu final, le Casino Barrière Toulouse agit comme une plateforme multi-divertissements : culture, ambiance festive et émotions de jeu se combinent en une seule expérience. C’est particulièrement adapté aux soirées en couple, aux sorties entre amis et aux événements d’entreprise. Avec les animations saisonnières, l’adresse se renouvelle et garde son attrait. Voilà pourquoi on le choisit souvent comme « point central » d’une soirée réussie.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nListe des divertissements\n<\/h4>\n\n <ul>\n            <li>• \nThéâtre \/ programmation — concerts, humour, shows musicaux, dates spéciales.\n\n<\/li>\n            <li>• \nDîner-spectacle — formule “repas + scène” pour une soirée clé en main.\n\n<\/li>\n            <li>• \nAmbiance bar du soir — cocktails, sets musicaux, esprit night out.\n\n<\/li>\n            <li>• \nTournois de jeux — rendez-vous poker et\/ou animations machines.\n\n<\/li>\n\t    <li>• \nSaisonnalité — fêtes, soirées thématiques, événements ponctuels.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, restaurants et détente au Casino Barrière Toulouse : gastronomie, pauses et soirée clé en main\n<\/h3>\n\n<p>\nAu Casino Barrière Toulouse, la détente commence souvent par la table ou le bar : on construit la soirée avec un apéritif, un dîner, puis un moment festif avant ou après le jeu. La restauration n’est pas un simple “plus” : elle fait partie de l’expérience globale, pensée pour le confort et le plaisir. Cette approche plaît aussi à ceux qui ne viennent pas forcément pour jouer longtemps, mais souhaitent une sortie complète. On peut ainsi profiter du lieu comme d’un véritable complexe de loisirs.\n\n<\/p>\n<br>\n\n<p>\nL’offre culinaire répond généralement à plusieurs besoins : un dîner plus élégant, une formule café plus simple, et des options bar pour grignoter entre deux moments. Cela permet d’adapter le rythme à la programmation du théâtre et à l’envie du soir. Avant un spectacle, venir plus tôt pour dîner rend la soirée plus fluide et plus agréable. Après une session de jeu, un repas tardif ou un cocktail devient une conclusion naturelle.\n\n<\/p>\n<br>\n<p>\nLes bars sont souvent le cœur social : on s’y retrouve, on échange sur la soirée, on partage les impressions du spectacle et on fait une pause. Selon l’heure et le jour, l’ambiance peut être calme ou plus animée. Après le théâtre, le bar prolonge l’énergie de l’événement et transforme la sortie en vraie nuit de divertissement. Pour ceux qui aiment le rythme nocturne, c’est un excellent trait d’union entre scène et jeu.\n\n<\/p>\n<br>\n<p>\nCôté hôtels, le concept reste surtout orienté “sortie complète” sur place, tandis que l’hébergement se choisit autour si l’on veut prolonger. C’est pratique pour les visiteurs qui viennent pour un spectacle, une longue session ou un week-end. L’expérience devient alors multi-étapes : dîner, show, bar, jeu, puis repos sans contrainte de transport tardif. Ce confort renforce l’attractivité du lieu.\n\n<\/p>\n<br>\n<p>\nGlobalement, le Casino Barrière Toulouse fonctionne comme un “constructeur de soirée”. On peut venir pour la gastronomie et l’ambiance, puis ajouter le jeu comme final, ou faire l’inverse. Cette liberté d’assemblage explique pourquoi le lieu séduit autant les couples que les groupes d’amis. L’équilibre entre détente et divertissement y est particulièrement réussi.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les lieux de détente\n<\/h4>\n\n <ul>\n            <li>• \nFouquet’s — restaurant élégant, idéal pour un dîner et les grandes occasions.\n\n<\/li>\n            <li>• \nCafé Barrière — solution simple et pratique pour une pause ou un repas.\n\n<\/li>\n            <li>• \nSamouraï Lounge Bar — cocktails et ambiance “soirée”, parfait après un spectacle.\n\n<\/li>\n            <li>• \nCafé des Sports — esprit convivial, ambiance sportive et échanges.\n\n<\/li>\n\t    <li>• \nCentral Bar — pause rapide à proximité des espaces de jeu.\n\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Faut-il s’inscrire à l’avance pour entrer ?",
+                    "answer": "Généralement non : contrôle d’accès, pièce d’identité, puis formalités éventuelles selon la soirée. Certaines zones VIP ou événements peuvent avoir des règles spécifiques.\n"
+                },
+                {
+                    "title": "Peut-on venir seulement au restaurant ou au spectacle sans jouer ?",
+                    "answer": "Souvent oui : restauration et théâtre peuvent se vivre indépendamment. L’accès dépend toutefois des règles du soir et du contrôle.\n"
+                },
+                {
+                    "title": "Que faire en cas d’objet perdu ?",
+                    "answer": "Contactez l’accueil ou la sécurité : un service objets trouvés est généralement en place. Plus vous signalez tôt, plus la récupération est simple.\n"
+                },
+                {
+                    "title": "Comment fonctionne le jeu responsable ?",
+                    "answer": "Des informations et outils de prévention existent généralement, ainsi que des possibilités d’auto-contrôle. En cas de doute, faire une pause et demander de l’aide est le bon réflexe.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1166",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Barrière Toulouse"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}
